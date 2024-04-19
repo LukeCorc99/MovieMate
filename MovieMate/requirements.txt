@@ -1,0 +1,5 @@
+
+# Use this .txt file to install streamlit
+streamlit
+
+-e .

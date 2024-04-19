@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.1
+Summary: A movie recommender application which gives recommendations based on movies entered by user.
+Author: Luke Corcoran
+Requires-Python: >=3.6
+Requires-Dist: streamlit
