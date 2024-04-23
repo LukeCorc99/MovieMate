@@ -33,8 +33,8 @@ def recommendMovie(movie):
     return recMovieNames,recMoviePics
 
 sl.header("MovieMate")
-movies = pickle.load(open('embeddings\movies.pkl', 'rb'))
-similarities = pickle.load(open('embeddings\similarity.pkl', 'rb'))
+movies = pickle.load(open('C:\Users\Luke\Spawning\PPilTG00410404\MovieMate\embeddings\movies.pkl', 'rb'))
+similarities = pickle.load(open('C:\Users\Luke\Spawning\PPilTG00410404\MovieMate\embeddings\similarity.pkl', 'rb'))
 
 movieList = movies['title'].values
 
