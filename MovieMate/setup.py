@@ -1,5 +1,7 @@
 from setuptools import setup
 
+# Setup.py is used to create local packages required using my virtual environment.
+
 # Define author name and source repository
 AUTHORNAME = 'Luke Corcoran'
 SRCREPO = 'src'
