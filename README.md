@@ -13,3 +13,5 @@ Follow the URL below to enter the website to start using.
 WEBSITE: 
 
 https://ppiltg00410404-hjxesmck8stwkldx3wq4ah.streamlit.app/
+
+(please allow for delays of up to 30 seconds after clicking the link due to limitations placed on the free version of Streamlit).
