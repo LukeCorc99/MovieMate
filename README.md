@@ -8,7 +8,7 @@ A web application which leverages machine learning concepts and techniques (such
 
 HOW TO USE:
 Simply select or type in a movie in order to receive recommendations based on the selected movie.
-Follow the URL below to enter the website to start using.
+Follow the URL below to enter the website to start using. Suitable for both desktop and mobile!
 
 WEBSITE: 
 
