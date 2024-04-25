@@ -65,7 +65,7 @@ def fetchInfo(movie_id):
 
     return info
 
-# Function to fetch the movie's information using the movie ID from The Movie Database (TMDb)
+# Function to fetch the movie's rating using the movie ID from The Movie Database (TMDb)
 def fetchRating(movie_id):
     # Creating the URL to request movie data from TMDb
     url = "https://api.themoviedb.org/3/movie/{}?language=en-US".format(movie_id)
@@ -80,7 +80,7 @@ def fetchRating(movie_id):
     response = requests.get(url, headers=headers)
     response = response.json()
     
-    # Extracting the information on the movie from the response
+    # Extracting the rating of the movie from the response
     rating = response['vote_average']
     
     # Convert the rating to two decimal places
