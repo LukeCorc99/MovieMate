@@ -2,8 +2,6 @@ MovieMate
 
 by Luke Corcoran
 
-G00410404
-
 A web application which leverages machine learning concepts and techniques (such as vectorization and similarity calculation) to build a movie recommendation system.
 
 HOW TO USE:
