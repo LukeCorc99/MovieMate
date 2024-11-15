@@ -2,7 +2,7 @@ MovieMate
 
 by Luke Corcoran
 
-A web application which leverages machine learning concepts and techniques (such as vectorization and similarity calculation) to build a movie recommendation system.
+A Python-based web application which leverages machine learning concepts and techniques (such as vectorization and similarity calculation) to build a movie recommendation system.
 
 HOW TO USE:
 Simply select or type in a movie in order to receive recommendations based on the selected movie.
